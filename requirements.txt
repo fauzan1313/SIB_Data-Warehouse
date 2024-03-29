@@ -1,0 +1,4 @@
+psycopg2-binary==2.9.9
+SQLAlchemy==1.4.41
+sqlparse==0.4.4
+pandas==1.4.4
